@@ -1,0 +1,109 @@
+﻿  concert.cpp
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(11,42): error C2061: syntax error: identifier 'Hall'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(15,9): error C2061: syntax error: identifier 'Hall'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(15,8): error C2535: 'Ticket::Ticket(void)': member function already defined or declared
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(10): message : see declaration of 'Ticket::Ticket'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(38,25): error C2061: syntax error: identifier 'concert'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,15): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(46,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(46,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(46,16): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,23): error C2065: 'hse': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,28): error C2065: 'conc': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,34): error C2065: 'visit': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(17,3): error C2065: 'myHse_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(17,13): error C2065: 'hse': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(18,11): error C2065: 'visit': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(19,3): error C2065: 'con_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(19,11): error C2065: 'conc': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(28,3): error C2065: 'myHse_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(21,31): error C2061: syntax error: identifier 'concert'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(22,30): error C2061: syntax error: identifier 'concert'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.cpp(44,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.cpp(71,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.cpp(77,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.cpp(82,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Hall.cpp
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.h(32,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.h(32,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.h(32,16): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(11,42): error C2061: syntax error: identifier 'Hall'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(15,9): error C2061: syntax error: identifier 'Hall'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(15,8): error C2535: 'Ticket::Ticket(void)': member function already defined or declared
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(10): message : see declaration of 'Ticket::Ticket'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,15): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,23): error C2065: 'hse': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,28): error C2065: 'conc': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,34): error C2065: 'visit': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(17,3): error C2065: 'myHse_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(17,13): error C2065: 'hse': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(18,11): error C2065: 'visit': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(19,11): error C2065: 'conc': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(28,3): error C2065: 'myHse_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.cpp(10,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.cpp(24,24): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.cpp(32,69): error C2660: 'Ticket::createTicket_v': function does not take 5 arguments
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(11,8): message : see declaration of 'Ticket::createTicket_v'
+  lab2.cpp
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.h(32,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.h(32,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\concert.h(32,16): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(11,42): error C2061: syntax error: identifier 'Hall'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(15,9): error C2061: syntax error: identifier 'Hall'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(15,8): error C2535: 'Ticket::Ticket(void)': member function already defined or declared
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(10): message : see declaration of 'Ticket::Ticket'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,15): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,23): error C2065: 'hse': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,28): error C2065: 'conc': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,34): error C2065: 'visit': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(17,3): error C2065: 'myHse_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(17,13): error C2065: 'hse': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(18,11): error C2065: 'visit': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(19,11): error C2065: 'conc': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(28,3): error C2065: 'myHse_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\lab2.cpp(71,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\dogba\Desktop\ООП\lab2\lab2\lab2.cpp(71,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\dogba\Desktop\ООП\lab2\lab2\lab2.cpp(84,2): error C3861: 'f': identifier not found
+C:\Users\dogba\Desktop\ООП\lab2\lab2\lab2.cpp(85,2): error C3861: 'f': identifier not found
+C:\Users\dogba\Desktop\ООП\lab2\lab2\lab2.cpp(86,2): error C3861: 'f': identifier not found
+  Manager.cpp
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(11,42): error C2061: syntax error: identifier 'Hall'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(15,9): error C2061: syntax error: identifier 'Hall'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(15,8): error C2535: 'Ticket::Ticket(void)': member function already defined or declared
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(10): message : see declaration of 'Ticket::Ticket'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(38,25): error C2061: syntax error: identifier 'concert'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(44,15): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(46,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(46,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(46,16): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,23): error C2065: 'hse': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,28): error C2065: 'conc': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(13,34): error C2065: 'visit': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(17,3): error C2065: 'myHse_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(17,13): error C2065: 'hse': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(18,11): error C2065: 'visit': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(19,3): error C2065: 'con_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(19,11): error C2065: 'conc': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Ticket.h(28,3): error C2065: 'myHse_p': undeclared identifier
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(21,31): error C2061: syntax error: identifier 'concert'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(22,30): error C2061: syntax error: identifier 'concert'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Manager.cpp(7,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  singer.cpp
+C:\Users\dogba\Desktop\ООП\lab2\lab2\singer.cpp(6,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ticket.cpp
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(12,8): error C2143: syntax error: missing ';' before '*'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(12,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(12,26): error C2238: unexpected token(s) preceding ';'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(21,31): error C2061: syntax error: identifier 'concert'
+C:\Users\dogba\Desktop\ООП\lab2\lab2\Hall.h(22,30): error C2061: syntax error: identifier 'concert'
+  visitor.cpp
+  Generating Code...
+C:\Users\dogba\Desktop\ООП\lab2\lab2\singer.cpp(21): error C4716: 'singer::SetperformanceTime': must return a value
